@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Soy Petrus Eliezer, estudiante de Ingenieria en Software, Como ha de esperarse🤔 me gusta la programacion y aqui estoy ⚡echandole ganas.
+Visita mi perfil de in 🌐https://www.linkedin.com/in/petrus-lora24/
 <!--
 **petruslora/petruslora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
