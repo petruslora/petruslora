@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi there I'm Petrus 👋
+### Software developer✨
+Soy Petrus Eliezer, estudiante de Ingenieria en Software, Como ha de esperarse🤔 me gusta la programacion, disfruto escribir y desarrollar aplicaciones y aqui estoy ⚡echandole ganas.
 
-Soy Petrus Eliezer, estudiante de Ingenieria en Software, Como ha de esperarse🤔 me gusta la programacion y aqui estoy ⚡echandole ganas.
-Visita mi perfil de in 🌐https://www.linkedin.com/in/petrus-lora24/
+Encuéntrame en: <a href="https://linkedin.com/in/petrus-lora24">🌐 Linkedin</a>
+
 <!--
 **petruslora/petruslora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
